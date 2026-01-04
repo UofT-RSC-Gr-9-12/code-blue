@@ -142,3 +142,8 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+# Created by venv; see https://docs.python.org/3/library/venv.html
+bin/
+include/
+lib/
+pyvenv.cfg
